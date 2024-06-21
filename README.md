@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**Protoser/Protoser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                 -------------                protoser@protoser 
+             ---------------------            ----------------- 
+          -------*767----------------         OS: Pop!_OS 22.04 LTS x86_64 
+        ------7676767676*--------------       Host: Protoser
+       -----76767--7676767--------------      Kernel: 6.8.0 
+      -----767676---*76767---------------     Packages: 2032 (dpkg), 21 (flatpak)
+     -------767676---76767.---7676*-------    Shell: bash 5.1.16 
+    ---------767676--76767---767676--------   Resolution: 1920x1080
+    ----------76767676767----76767---------   DE: GNOME 42.9 
+    -----------76767676------7676----------   WM: Mutter
+    ------------,7676,-------767-----------   WM Theme: Pop
+    -------------*7676-------76------------   Theme: Adwaita-dark [GTK2-3] 
+    ---------------7676--------------------   Icons: Pop [GTK2-3]
+     ---------------7676---767------------    Terminal: gnome-terminal 
+      ----------------------'------------     CPU: Intel i7-9750H (12) @ 4.500GHz 
+       ------.7676767676767676767,------      GPU: Intel CoffeeLake-H GT2 [UHD Graphics]
+        -----767676767676767676767-----       GPU: NVIDIA GeForce GTX 1650 Mobile
+          ---------------------------         Memory: 19851MiB
+             ---------------------             
+                -------------
